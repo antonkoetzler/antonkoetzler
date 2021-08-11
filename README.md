@@ -1,6 +1,12 @@
 ## Who am I?
 Hello, my name is Anton Koetzler-Faust. Currently, I'm a university student majoring in computer science. I've been avidly self-teaching since my enrollment however.
 ## What am I interested in & what have I been doing
-I was very interested in creating GUIs, and thus I learned wxWidgets a while back. Now, I'm expanding my knowledge on web design. I've been trying to create a social media website with XAMPP, HTML/CSS/JS, and PHP. Thus, I can conclude that my interest stems in web design and GUI development.
+I'm quite interested in continuing to learn about GUI and web development. I find that my passion for programming is derived a lot from the UNIX philosophy.
+
+What I have most experience in
+- C++
+- wxWidgets
+- HTML/CSS/JS
+- PHP
 ## Contact Me
-**Email:** antonkoetzler-faust@protonmail.com
+**Email:** antonkoetzler-faust@hotmail.com
