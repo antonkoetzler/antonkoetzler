@@ -3,9 +3,9 @@ Hello, my name is Anton Koetzler-Faust. Currently, I'm a university student majo
 ## What am I interested in & what have I been doing
 I'm quite interested in continuing to learn about GUI and web development. I find that my passion for programming is derived a lot from the UNIX philosophy.
 
-What I have most experience in
+My Experience
 - C++
-- wxWidgets
+  - wxWidgets
 - HTML/CSS/JS
 - PHP
 ## Contact Me
