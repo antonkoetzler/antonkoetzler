@@ -4,7 +4,7 @@ My name is Anton Koetzler-Faust. I'm a Canadian born programmer primarily focuse
 
 # About Me
 1. I'm half Brazilian and fluent in Portuguese
-2. Soon, I will be subsiding in Florianopolis, SC, Brazil
+2. Soon, I will be permanently moving Florianopolis, SC, Brazil 🎉
 3. My programming idols include: Richard Stallman, Linus Torvalds, & [Tsoding](https://github.com/tsoding)
 
 # Technologies, Languages, and Frameworks I use
