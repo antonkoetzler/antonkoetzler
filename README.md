@@ -1,12 +1,24 @@
-## Who am I?
-Hello, my name is Anton Koetzler-Faust. Currently, I'm a university student majoring in computer science. I've been avidly self-teaching since my enrollment however.
-## What am I interested in & what have I been doing
-I'm quite interested in continuing to learn about GUI and web development. I find that my passion for programming is derived a lot from the UNIX philosophy.
+# Welcome to my profile
+My name is Anton Koetzler-Faust. I'm a Canadian born programmer primarily focused on C++ & web development. I'm a staunch supporter of the free software movement; I strive to make software free from obstructies where the user knows what they're using.
 
-My Experience
-- C++
-  - wxWidgets
-- HTML/CSS/JS
+# About Me
+1. I'm half Brazilian and fluent in Portuguese
+2. Soon, I will be subsiding in Florianopolis, SC, Brazil
+3. My programming idols include: Richard Stallman, Linus Torvalds, & [Tsoding](https://github.com/tsoding)
+
+# Technologies, Languages, and Frameworks I used
+- HTML
+- CSS
+- JS
 - PHP
-## Contact Me
+- SQL
+- React Native
+- C++
+- C
+- wxWidgets
+- Linux
+- VIM
+- Figma
+
+# Contact Me
 **Email:** antonkoetzler-faust@hotmail.com
