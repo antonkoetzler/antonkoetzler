@@ -3,8 +3,8 @@ My name is Anton Koetzler-Faust. I'm a Canadian born programmer currently focuse
 
 
 # About Me
-1. I'm half Brazilian and fluent in Portuguese
-2. Soon, I will be moving to Florianopolis, SC, Brazil 🎉
+1. Half Brazilian and fluent in Portuguese & English
+2. I live in Florianopolis, SC, Brazil 🎉
 3. I've been programming seriously since 2019
 
 # Technologies, Languages, and Frameworks I use
