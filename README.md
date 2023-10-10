@@ -8,7 +8,7 @@ My name is Anton Koetzler-Faust. I'm a Canadian born programmer currently focuse
 3. I've been programming seriously since 2019
 
 # Technologies, Languages, and Frameworks I use
-![HTML](./HTML.png) ![CSS](./CSS.png) ![JS](./JS.png) ![React](./React.png) ![Electron](./Electron.png) ![NeutralinoJS](./NeutralinoJS.png) ![PHP](./PHP.png) ![MySQL](./MySQL.png) ![Java](https://github.com/antonkoetzler/antonkoetzler/assets/66643637/093e9b07-44a6-4154-8e7a-57f4737ed294) ![C++](./C++.png) ![C](./C.png) ![wxWidgets](./wxWidgets.png) ![Linux](Linux.png) ![VIM](./VIM.png)
+![HTML](./HTML.png) ![CSS](./CSS.png) ![JS](./JS.png) ![React](./React.png) ![Electron](./Electron.png) ![NeutralinoJS](./NeutralinoJS.png) ![PHP](./PHP.png) ![MySQL](./MySQL.png) ![Java](./Java.png) ![C++](./C++.png) ![C](./C.png) ![wxWidgets](./wxWidgets.png) ![Linux](Linux.png) ![VIM](./VIM.png)
 
 # Contact Me
 **Email:** antonkoetzler-faust@hotmail.com
