@@ -1,5 +1,5 @@
 # Welcome To My Profile
-My name is Anton Koetzler-Faust. I'm a Canadian born programmer currently focused on full-stack mobile & desktop development. Mainly, I make desktop/mobile applications and write scripts. I strive to make software free from obscurities where the user may always have the resources available to know and understand what they're using.
+My name is Anton Koetzler-Faust. I'm a Canadian born programmer currently focused on mobile & desktop development. Mainly, I make desktop/mobile applications and write scripts. I strive to make software free from obscurities where the user may always have the resources available to know and understand what they're using.
 
 
 # About Me
