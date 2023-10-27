@@ -4,7 +4,7 @@ My name is Anton Koetzler-Faust. I'm a Canadian born programmer currently focuse
 
 # About Me
 1. Half Brazilian and fluent in Portuguese & English
-2. I live in Florianopolis, SC, Brazil 🎉
+2. I live in Florianopolis, Santa Catarina, Brazil 🎉
 3. I've been programming seriously since 2019
 
 # Technologies, Languages, and Frameworks I use
