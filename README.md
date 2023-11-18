@@ -1,5 +1,7 @@
 # Welcome
-Canadian/Brazilian. I specialize in
+Canadian/Brazilian. I mostly write scripts and FOSS. Check out my GitHub organization Myoro!
+
+# Specializing in
 1. React
 2. React Native
 3. C
