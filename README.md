@@ -1,5 +1,5 @@
 # Welcome
-Canadian/Brazilian lad writing cross-platform applications and scripts. Check out my GitHub organization Myoro!
+Canadian/Brazilian lad writing cross-platform FOSS and scripts. Check out my GitHub organization Myoro!
 
 # Specializing in
 1. React
