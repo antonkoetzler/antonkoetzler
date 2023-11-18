@@ -2,11 +2,9 @@
 Canadian/Brazilian lad writing cross-platform FOSS and scripts. Check out my GitHub organization Myoro!
 
 # Specializing in
-1. React
-2. React Native
-3. C
+![React](./React.png) ![C](C.png)
 
-# Technologies, Languages, and Frameworks I use
+# My Toolbox
 ![HTML](./HTML.png) ![CSS](./CSS.png) ![JS](./JS.png) ![React](./React.png) ![Flutter](./Flutter.png) ![Electron](./Electron.png) ![NeutralinoJS](./NeutralinoJS.png) ![PHP](./PHP.png) ![MySQL](./MySQL.png) ![Java](./Java.png) ![C++](./C++.png) ![C](./C.png) ![wxWidgets](./wxWidgets.png) ![Linux](Linux.png) ![VIM](./VIM.png)
 
 # Contact
