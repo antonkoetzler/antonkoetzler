@@ -1,14 +1,11 @@
-# Welcome To My Profile
-My name is Anton Koetzler-Faust. I'm a Canadian born programmer currently focused on mobile & desktop development. Mainly, I make desktop/mobile applications and write scripts. I strive to make software free from obscurities where the user may always have the resources available to know and understand what they're using.
-
-
-# About Me
-1. Half Brazilian and fluent in Portuguese & English
-2. I live in Florianopolis, Santa Catarina, Brazil 🎉
-3. I've been programming seriously since 2019
+# Welcome
+Canadian/Brazilian. I specialize in
+1. React
+2. React Native
+3. C
 
 # Technologies, Languages, and Frameworks I use
 ![HTML](./HTML.png) ![CSS](./CSS.png) ![JS](./JS.png) ![React](./React.png) ![Flutter](./Flutter.png) ![Electron](./Electron.png) ![NeutralinoJS](./NeutralinoJS.png) ![PHP](./PHP.png) ![MySQL](./MySQL.png) ![Java](./Java.png) ![C++](./C++.png) ![C](./C.png) ![wxWidgets](./wxWidgets.png) ![Linux](Linux.png) ![VIM](./VIM.png)
 
-# Contact Me
+# Contact
 **Email:** antonkoetzler-faust@hotmail.com
