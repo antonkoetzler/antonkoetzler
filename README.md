@@ -1,5 +1,5 @@
 # Welcome
-Canadian/Brazilian lad writing cross-platform FOSS, games, and scripts 😎 Check out my GitHub organization Myoro!
+Canadian/Brazilian lad writing cross-platform FOSS & scripts 😎 Check out my operation [Myoro](https://github.com/Myoro)!
 
 # Specializing in
 ![React](./React.png) ![Electron](Electron.png) ![Flutter](Flutter.png)
