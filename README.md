@@ -4,7 +4,7 @@ Canadian/Brazilian lad writing cross-platform FOSS & scripts 😎 Check out my o
 
 ## Specializing in
 
-<img src='img/dart.svg' alt='dart' width=50 /><img src='img/flutter.svg' alt='flutter' width=50 />
+<img src='img/dart.svg' alt='dart' width=80 /><img src='img/flutter.svg' alt='flutter' width=80 />
 
 ## My Toolbox ~ The Blue Stack 🌊
 
