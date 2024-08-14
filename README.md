@@ -1,6 +1,6 @@
 # Welcome
 
-Canadian/Brazilian lad writing cross-platform FOSS & scripts 😎 Check out my operation [Myoro](https://github.com/Myoro)!
+Canadian/Brazilian lad writing cross-platform FOSS & scripts 😎
 
 ## Specializing in
 
