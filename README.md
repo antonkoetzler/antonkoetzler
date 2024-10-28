@@ -9,7 +9,8 @@ Canadian/Brazilian lad writing cross-platform FOSS & scripts 😎
 ## My setup
 1. **OS:** Arch linux;
 2. **Window manager:** i3;
-3. **Terminal:** Gnome terminal;
+3. **Editor:** nvim;
+4. **Terminal:** Gnome terminal;
 
 ## Contact
 
