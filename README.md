@@ -10,7 +10,7 @@ Canadian/Brazilian lad writing cross-platform FOSS & scripts 😎
 
 1. **OS:** Arch linux;
 2. **Window manager:** Hyprland;
-3. **Editor:** Visual Studio Code;
+3. **Editor:** Neovim;
 4. **Terminal:** Kitty.
 
 ## Contact
