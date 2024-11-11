@@ -8,10 +8,10 @@ Canadian/Brazilian lad writing cross-platform FOSS & scripts 😎
 
 ## My setup
 
-1. **OS:** Arch linux;
+1. **OS:** Windows 11 & Arch linux;
 2. **Window manager:** Hyprland;
 3. **Editor:** Neovim;
-4. **Terminal:** Kitty.
+4. **Terminal:** Powershell on Windows, Kitty on Linux.
 
 ## Contact
 
