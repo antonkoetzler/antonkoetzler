@@ -1,4 +1,4 @@
-<h1 align='center'>Hey, I'm a Canadian/Brazilian developer! 😸</h1>
+<h1 align='center'>Welcome! I'm a Canadian/Brazilian developer! 😸</h1>
 
 <p align='center'>
   <img
