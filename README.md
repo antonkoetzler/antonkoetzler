@@ -25,7 +25,7 @@
 
 <h2 align='center'>Contact</h2>
 
-<p align='center'><strong>Email:</strong> antonkoetzler-faust@hotmail.com</p>
+<p align='center'><a href='mailto:antonkoetzler-faust@hotmail.com'>antonkoetzler-faust@hotmail.com</a></p>
 
 <p>&nbsp;</p>
 
