@@ -9,26 +9,26 @@
 
 <h2 align='center'>Toolbox</h2>
 <p align='center'>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />&nbsp;
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />&nbsp;
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />&nbsp;
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />&nbsp;
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />&nbsp;
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />&nbsp;
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />&nbsp;
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src='img/dart.svg' width=65 height=65 alt='dart' />&nbsp;
+  <img src='img/flutter.svg' width=65 height=65 alt='flutter' />&nbsp;
+  <img src='img/javascript.png' width=65 height=65 alt='javascript' />&nbsp;
+  <img src='img/typescript.svg' width=65 height=65 alt='typescript' />&nbsp;
+  <img src='img/node.png' width=65 height=65 alt='node' />&nbsp;
+  <img src='img/react.svg' width=65 height=65 alt='react' />&nbsp;
+  <img src='img/electron.svg' width=65 height=65 alt='electron' />&nbsp;
+  <img src='img/php.svg' width=65 height=65 alt='php' />&nbsp;
+  <img src='img/laravel.svg' width=65 height=65 alt='laravel' />&nbsp;
+  <img src='img/sqlite.svg' width=65 height=65 alt='sqlite' />&nbsp;
+  <img src='img/postgres.svg' width=65 height=65 alt='postgres' />&nbsp;
+  <img src='img/docker.svg' width=65 height=65 alt='docker' />&nbsp;
 </p>
 
 <h2 align='center'>Dev Stack</h2>
 <p align='center'>
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />&nbsp;
-  <img src="https://img.shields.io/badge/Hyprland-1E1E2E?style=for-the-badge&logo=hyprland&logoColor=white" alt="Hyprland" />&nbsp;
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-  <img src="https://img.shields.io/badge/Kitty-FFD500?style=for-the-badge&logo=kitty&logoColor=black" alt="Kitty" />&nbsp;
+  <img src='img/arch.svg' width=65 height=65 alt='arch' />&nbsp;
+  <img src='img/hyprland.svg' width=65 height=65 alt='hyprland' />&nbsp;
+  <img src='img/neovim.svg' width=65 height=65 alt='neovim' />&nbsp;
+  <img src='img/kitty.png' width=65 height=65 alt='kitty' />&nbsp;
 </p>
 
 <h2 align='center'>Contact</h2>
