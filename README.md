@@ -20,7 +20,7 @@
   <img src='img/laravel.svg' width=65 height=65 alt='laravel' />&nbsp;
   <img src='img/sqlite.svg' width=65 height=65 alt='sqlite' />&nbsp;
   <img src='img/postgres.svg' width=65 height=65 alt='postgres' />&nbsp;
-  <img src='img/docker.svg' width=65 height=65 alt='docker' />&nbsp;
+  <img src='img/docker.svg' width=65 height=65 alt='docker' />
 </p>
 
 <h2 align='center'>Dev Stack</h2>
@@ -28,7 +28,7 @@
   <img src='img/arch.svg' width=65 height=65 alt='arch' />&nbsp;
   <img src='img/hyprland.svg' width=65 height=65 alt='hyprland' />&nbsp;
   <img src='img/neovim.svg' width=65 height=65 alt='neovim' />&nbsp;
-  <img src='img/kitty.png' width=65 height=65 alt='kitty' />&nbsp;
+  <img src='img/kitty.png' width=65 height=65 alt='kitty' />
 </p>
 
 <h2 align='center'>Contact</h2>
