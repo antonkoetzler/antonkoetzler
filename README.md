@@ -9,26 +9,26 @@
 
 <h2 align='center'>Toolbox</h2>
 <p align='center'>
-  <img src='img/dart.svg' width=65 height=65 alt='dart' />&nbsp;
-  <img src='img/flutter.svg' width=65 height=65 alt='flutter' />&nbsp;
-  <img src='img/javascript.png' width=65 height=65 alt='javascript' />&nbsp;
-  <img src='img/typescript.svg' width=65 height=65 alt='typescript' />&nbsp;
-  <img src='img/node.png' width=65 height=65 alt='node' />&nbsp;
-  <img src='img/react.svg' width=65 height=65 alt='react' />&nbsp;
-  <img src='img/electron.svg' width=65 height=65 alt='electron' />&nbsp;
-  <img src='img/php.svg' width=65 height=65 alt='php' />&nbsp;
-  <img src='img/laravel.svg' width=65 height=65 alt='laravel' />&nbsp;
-  <img src='img/sqlite.svg' width=65 height=65 alt='sqlite' />&nbsp;
-  <img src='img/postgres.svg' width=65 height=65 alt='postgres' />&nbsp;
-  <img src='img/docker.svg' width=65 height=65 alt='docker' />
+  <img src='img/dart.svg' width=50 height=50 alt='dart' />&nbsp;
+  <img src='img/flutter.svg' width=50 height=50 alt='flutter' />&nbsp;
+  <img src='img/javascript.png' width=50 height=50 alt='javascript' />&nbsp;
+  <img src='img/typescript.svg' width=50 height=50 alt='typescript' />&nbsp;
+  <img src='img/node.png' width=50 height=50 alt='node' />&nbsp;
+  <img src='img/react.svg' width=50 height=50 alt='react' />&nbsp;
+  <img src='img/electron.svg' width=50 height=50 alt='electron' />&nbsp;
+  <img src='img/php.svg' width=50 height=50 alt='php' />&nbsp;
+  <img src='img/laravel.svg' width=50 height=50 alt='laravel' />&nbsp;
+  <img src='img/sqlite.svg' width=50 height=50 alt='sqlite' />&nbsp;
+  <img src='img/postgres.svg' width=50 height=50 alt='postgres' />&nbsp;
+  <img src='img/docker.svg' width=50 height=50 alt='docker' />
 </p>
 
 <h2 align='center'>Dev Stack</h2>
 <p align='center'>
-  <img src='img/arch.svg' width=65 height=65 alt='arch' />&nbsp;
-  <img src='img/hyprland.svg' width=65 height=65 alt='hyprland' />&nbsp;
-  <img src='img/neovim.svg' width=65 height=65 alt='neovim' />&nbsp;
-  <img src='img/kitty.png' width=65 height=65 alt='kitty' />
+  <img src='img/arch.svg' width=50 height=50 alt='arch' />&nbsp;
+  <img src='img/hyprland.svg' width=50 height=50 alt='hyprland' />&nbsp;
+  <img src='img/neovim.svg' width=50 height=50 alt='neovim' />&nbsp;
+  <img src='img/kitty.png' width=50 height=50 alt='kitty' />
 </p>
 
 <h2 align='center'>Contact</h2>
