@@ -7,7 +7,7 @@
   />
 </p>
 
-<h2 align='center'>Toolbox</h2>
+<h2 align='center'>Tech Stack</h2>
 <p align='center'>
   <img src='images/dart.svg' width=50 height=50 alt='dart' />&nbsp;
   <img src='images/flutter.svg' width=50 height=50 alt='flutter' />&nbsp;
