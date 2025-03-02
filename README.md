@@ -36,7 +36,7 @@
 </p>
 
 <h2 align='center'>What I am working on right now?</h2>
-- <a href='https://github.com/antonkoetzler/myoro_api'>MyoroAPI</a>: Centralized database for all of my applications;
+- <a href='https://github.com/antonkoetzler/myoro_api'>MyoroAPI</a>: Centralized database for all of my applications;<br />
 - <a href='https://github.com/antonkoetzler/MyoroFinance'>MyoroFinance</a>: A beautiful & feature rich finance application.
 
 <h2 align='center'>Contact</h2>
