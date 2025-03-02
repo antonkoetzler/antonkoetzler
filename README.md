@@ -35,10 +35,12 @@
   <img src='images/kitty.png' width=50 height=50 alt='kitty' />
 </p>
 
-<h2 align='center'>Contact</h2>
+<h2 align='center'>What I am working on right now?</h2>
+- <a href='https://github.com/antonkoetzler/myoro_api'>MyoroAPI</a>: Centralized database for all of my applications;
+- <a href='https://github.com/antonkoetzler/MyoroFinance'>MyoroFinance</a>: A beautiful & feature rich finance application.
 
+<h2 align='center'>Contact</h2>
 <p align='center'><a href='mailto:antonkoetzler-faust@hotmail.com'>antonkoetzler-faust@hotmail.com</a></p>
 
-<p>&nbsp;</p>
-
-<p align='center'>Account where I store my old code: https://github.com/antonkoetzler-archive</p>
+<h2 align='center'>Miscellaneous</h2>
+<p align='center'><a href='https://github.com/antonkoetzler-archive' align='center'>Account where I store my old code</a></p>
