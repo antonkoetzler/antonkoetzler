@@ -13,9 +13,11 @@
   <img src='images/flutter.svg' width=50 height=50 alt='flutter' />&nbsp;
   <img src='images/javascript.png' width=50 height=50 alt='javascript' />&nbsp;
   <img src='images/typescript.svg' width=50 height=50 alt='typescript' />&nbsp;
+  <img src='images/bash.svg' width=50 height=50 alt='bash' />&nbsp;
   <img src='images/node.png' width=50 height=50 alt='node' />&nbsp;
   <img src='images/bun.svg' width=50 height=50 alt='bun' />&nbsp;
   <img src='images/react.svg' width=50 height=50 alt='react' />&nbsp;
+  <img src='images/tailwind.svg' width=50 height=50 alt='tailwind' />&nbsp;
   <img src='images/shadcn.svg' width=50 height=50 alt='shadcn' />&nbsp;
   <img src='images/electron.svg' width=50 height=50 alt='electron' />&nbsp;
   <img src='images/vite.svg' width=50 height=50 alt='vite' />&nbsp;
