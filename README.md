@@ -13,7 +13,6 @@
   <img src='images/flutter.svg' width=50 height=50 alt='Flutter' title='Flutter' />&nbsp;
   <img src='images/javascript.png' width=50 height=50 alt='JavaScript' title='JavaScript' />&nbsp;
   <img src='images/typescript.svg' width=50 height=50 alt='TypeScript' title='TypeScript' />&nbsp;
-  <img src='images/bash.svg' width=50 height=50 alt='Bash' title='Bash' />&nbsp;
   <img src='images/node.png' width=50 height=50 alt='Node' title='Node' />&nbsp;
   <img src='images/bun.svg' width=50 height=50 alt='Bun' title='Bun' />&nbsp;
   <img src='images/react.svg' width=50 height=50 alt='React' title='React' />&nbsp;
@@ -26,7 +25,8 @@
   <img src='images/laravel.svg' width=50 height=50 alt='Laravel' title='Laravel' />&nbsp;
   <img src='images/sqlite.svg' width=50 height=50 alt='SQLite' title='SQLite' />&nbsp;
   <img src='images/postgres.svg' width=50 height=50 alt='PostgreSQL' title='PostgreSQL' />&nbsp;
-  <img src='images/docker.svg' width=50 height=50 alt='Docker' title='Docker' />
+  <img src='images/docker.svg' width=50 height=50 alt='Docker' title='Docker' />&nbsp;
+  <img src='images/bash.svg' width=50 height=50 alt='Bash' title='Bash' />
 </p>
 
 <h2 align='center'>Dev Stack</h2>
