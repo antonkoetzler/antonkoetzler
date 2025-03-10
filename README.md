@@ -20,7 +20,7 @@
   <img src='images/electron.svg' width=50 height=50 alt='Electron' title='Electron' />&nbsp;
   <img src='images/vite.svg' width=50 height=50 alt='Vite' title='Vite' />&nbsp;
   <img src='images/next.svg' width=50 height=50 alt='Next' alt='Next' />&nbsp;
-  <img src='images/expo.svg' width=50 height=50 alt='Expo' title='Expo' />&nbsp;
+  <img src='images/expo.svg?v=2' width=50 height=50 alt='Expo' title='Expo' />&nbsp;
   <img src='images/php.svg' width=50 height=50 alt='PHP' title='PHP' />&nbsp;
   <img src='images/laravel.svg' width=50 height=50 alt='Laravel' title='Laravel' />&nbsp;
   <img src='images/sqlite.svg' width=50 height=50 alt='SQLite' title='SQLite' />&nbsp;
