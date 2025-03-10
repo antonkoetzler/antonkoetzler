@@ -13,7 +13,6 @@
   <img src='images/flutter.svg' width=50 height=50 alt='Flutter' title='Flutter' />&nbsp;
   <img src='images/javascript.png' width=50 height=50 alt='JavaScript' title='JavaScript' />&nbsp;
   <img src='images/typescript.svg' width=50 height=50 alt='TypeScript' title='TypeScript' />&nbsp;
-  <img src='images/node.png' width=50 height=50 alt='Node' title='Node' />&nbsp;
   <img src='images/bun.svg' width=50 height=50 alt='Bun' title='Bun' />&nbsp;
   <img src='images/react.svg' width=50 height=50 alt='React' title='React' />&nbsp;
   <img src='images/tailwind.svg' width=50 height=50 alt='Tailwind' title='Tailwind' />&nbsp;
@@ -21,6 +20,7 @@
   <img src='images/electron.svg' width=50 height=50 alt='Electron' title='Electron' />&nbsp;
   <img src='images/vite.svg' width=50 height=50 alt='Vite' title='Vite' />&nbsp;
   <img src='images/next.svg' width=50 height=50 alt='Next' alt='Next' />&nbsp;
+  <img src='images/expo.svg' width=50 height=50 alt='Expo' title='Expo' />&nbsp;
   <img src='images/php.svg' width=50 height=50 alt='PHP' title='PHP' />&nbsp;
   <img src='images/laravel.svg' width=50 height=50 alt='Laravel' title='Laravel' />&nbsp;
   <img src='images/sqlite.svg' width=50 height=50 alt='SQLite' title='SQLite' />&nbsp;
