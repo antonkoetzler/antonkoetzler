@@ -11,12 +11,12 @@
 <p align='center'>
   <img src='images/dart.svg' width=50 height=50 alt='Dart' title='Dart' />&nbsp;
   <img src='images/flutter.svg' width=50 height=50 alt='Flutter' title='Flutter' />&nbsp;
-  <img src='images/javascript.png' width=50 height=50 alt='JavaScript' title='JavaScript' />&nbsp;
   <img src='images/typescript.svg' width=50 height=50 alt='TypeScript' title='TypeScript' />&nbsp;
   <img src='images/bun.svg' width=50 height=50 alt='Bun' title='Bun' />&nbsp;
   <img src='images/react.svg' width=50 height=50 alt='React' title='React' />&nbsp;
   <img src='images/tailwind.svg' width=50 height=50 alt='Tailwind' title='Tailwind' />&nbsp;
   <img src='images/shadcn.svg' width=50 height=50 alt='shadcn' title='shadcn' />&nbsp;
+  <img src='images/lynx.svg' width=50 height=50 alt='Lynx' title='Lynx' />&nbsp;
   <img src='images/electron.svg' width=50 height=50 alt='Electron' title='Electron' />&nbsp;
   <img src='images/vite.svg' width=50 height=50 alt='Vite' title='Vite' />&nbsp;
   <img src='images/next.svg' width=50 height=50 alt='Next' alt='Next' />&nbsp;
