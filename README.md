@@ -35,7 +35,7 @@
   <img src='images/arch.svg' width=50 height=50 alt='Arch' title='Arch' />&nbsp;
   <img src='images/hyprland.svg' width=50 height=50 alt='Hyprland' title='Hyprland' />&nbsp;
   <img src='images/kitty.png' width=50 height=50 alt='Kitty' title='Kitty' />
-  <img src='images/windows.svg' width=50 height=50 alt='Windows' title='Windows' />&nbsp;
+  <img src='images/windows11.svg' width=50 height=50 alt='Windows' title='Windows' />&nbsp;
   <img src='images/mac-os.svg' width=50 height=50 alt='macOS' title='macOS' />&nbsp;
   <img src='images/vscode.svg' width=50 height=50 alt='VS Code' title='VS Code' />&nbsp;
   <img src='images/neovim.svg' width=50 height=50 alt='Neovim' title='Neovim' />&nbsp;
