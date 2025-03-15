@@ -17,11 +17,11 @@
   <img src='images/react.svg' width=50 height=50 alt='React' title='React' />&nbsp;
   <img src='images/tailwind.svg' width=50 height=50 alt='Tailwind' title='Tailwind' />&nbsp;
   <img src='images/shadcn.svg' width=50 height=50 alt='shadcn' title='shadcn' />&nbsp;
-  <img src='images/lynx.svg' width=50 height=50 alt='Lynx' title='Lynx' />&nbsp;
   <img src='images/electron.svg' width=50 height=50 alt='Electron' title='Electron' />&nbsp;
   <img src='images/vite.svg' width=50 height=50 alt='Vite' title='Vite' />&nbsp;
   <img src='images/next.svg' width=50 height=50 alt='Next' alt='Next' />&nbsp;
   <img src='images/expo-js.svg' width=50 height=50 alt='Expo' title='Expo' />&nbsp;
+  <img src='images/lynx.svg' width=50 height=50 alt='Lynx' title='Lynx' />&nbsp;
   <img src='images/php.svg' width=50 height=50 alt='PHP' title='PHP' />&nbsp;
   <img src='images/laravel.svg' width=50 height=50 alt='Laravel' title='Laravel' />&nbsp;
   <img src='images/sqlite.svg' width=50 height=50 alt='SQLite' title='SQLite' />&nbsp;
@@ -32,10 +32,14 @@
 
 <h2 align='center'>Dev Stack</h2>
 <p align='center'>
+  <img src='images/windows.svg' width=50 height=50 alt='Windows' title='Windows' />&nbsp;
+  <img src='images/macos.svg' width=50 height=50 alt='macOS' title='macOS' />&nbsp;
   <img src='images/arch.svg' width=50 height=50 alt='Arch' title='Arch' />&nbsp;
   <img src='images/hyprland.svg' width=50 height=50 alt='Hyprland' title='Hyprland' />&nbsp;
-  <img src='images/neovim.svg' width=50 height=50 alt='Neovim' title='Neovim' />&nbsp;
   <img src='images/kitty.png' width=50 height=50 alt='Kitty' title='Kitty' />
+  <img src='images/arch.svg' width=50 height=50 alt='Arch' title='Arch' />&nbsp;
+  <img src='images/vscode.svg' width=50 height=50 alt='VS Code' title='VS Code' />&nbsp;
+  <img src='images/neovim.svg' width=50 height=50 alt='Neovim' title='Neovim' />&nbsp;
 </p>
 
 <h2 align='center'>What I am working on right now?</h2>
