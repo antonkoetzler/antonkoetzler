@@ -42,7 +42,7 @@
 </p>
 
 <h2 align='center'>What I am working on right now?</h2>
-<p align='center'><a href='https://github.com/antonkoetzler/myoro_flutter_library'>Myoro Flutter Library</a>: A Flutter meta-framework.</p>
+<p align='center'><a href='https://github.com/antonkoetzler/myoro_flutter_library'>Myoro Flutter Library</a>: A Flutter developer toolkit.</p>
 
 <h2 align='center'>Contact</h2>
 <p align='center'><a href='mailto:antonkoetzler-faust@hotmail.com'>antonkoetzler-faust@hotmail.com</a></p>
