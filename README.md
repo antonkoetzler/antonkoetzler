@@ -44,6 +44,11 @@
 <h2 align='center'>What I am working on right now?</h2>
 <p align='center'><a href='https://github.com/antonkoetzler/myoro_flutter_library'>Myoro Flutter Library</a>: A Flutter developer toolkit.</p>
 
+<h2 align='center'>What do I want to build next?</h2>
+<ul>
+  <li>A blog! I want to post about my ideas. Right now I'm thinking about state management in Flutter; I'd like to create a blog about my proposal: Vloc</li>
+</ul>
+
 <h2 align='center'>Contact</h2>
 <p align='center'><a href='mailto:antonkoetzler-faust@hotmail.com'>antonkoetzler-faust@hotmail.com</a></p>
 
