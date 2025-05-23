@@ -46,6 +46,7 @@
 
 <h2 align='center'>What do I want to build next?</h2>
 <ul>
+  <li>MyoroReactLibrary 😏</li>
   <li>A blog! I want to post about my ideas. Right now I'm thinking about state management in Flutter; I'd like to create a blog about my proposal: Vloc</li>
 </ul>
 
