@@ -42,7 +42,7 @@
 </p>
 
 <h2 align='center'>What I am working on right now?</h2>
-<p align='center'><a href='https://github.com/antonkoetzler/myoro_flutter_library'>Myoro Flutter Library</a>: A Flutter developer toolkit.</p>
+<p align='center'><a href='https://github.com/antonkoetzler/myoro_flutter_library'>Myoro Flutter Library</a>: A Flutter development toolkit.</p>
 
 <h2 align='center'>What do I want to build next?</h2>
 <ul>
