@@ -21,9 +21,9 @@
   <img src='images/vite.svg' width=50 height=50 alt='Vite' title='Vite' />&nbsp;
   <img src='images/next.svg' width=50 height=50 alt='Next' alt='Next' />&nbsp;
   <img src='images/expo-js.svg' width=50 height=50 alt='Expo' title='Expo' />&nbsp;
-  <img src='images/lynx.svg' width=50 height=50 alt='Lynx' title='Lynx' />&nbsp;
-  <img src='images/php.svg' width=50 height=50 alt='PHP' title='PHP' />&nbsp;
-  <img src='images/laravel.svg' width=50 height=50 alt='Laravel' title='Laravel' />&nbsp;
+  <img src='images/go.svg' width=50 height=50 alt='Go' title='Go' />&nbsp;
+  <img src='images/java.svg' width=50 height=50 alt='Java' title='Java' />&nbsp;
+  <img src='images/spring.svg' width=50 height=50 alt='Spring' title='Spring' />&nbsp;
   <img src='images/sqlite.svg' width=50 height=50 alt='SQLite' title='SQLite' />&nbsp;
   <img src='images/postgres.svg' width=50 height=50 alt='PostgreSQL' title='PostgreSQL' />&nbsp;
   <img src='images/docker.svg' width=50 height=50 alt='Docker' title='Docker' />&nbsp;
@@ -34,21 +34,11 @@
 <p align='center'>
   <img src='images/arch.svg' width=50 height=50 alt='Arch' title='Arch' />&nbsp;
   <img src='images/hyprland.svg' width=50 height=50 alt='Hyprland' title='Hyprland' />&nbsp;
-  <img src='images/kitty.png' width=50 height=50 alt='Kitty' title='Kitty' />&nbsp;
-  <img src='images/windows11.svg' width=45 height=50 alt='Windows' title='Windows' />&nbsp;
   <img src='images/mac-os.svg' width=50 height=50 alt='macOS' title='macOS' />&nbsp;
+  <img src='images/windows11.svg' width=45 height=50 alt='Windows' title='Windows' />&nbsp;
+  <img src='images/kitty.png' width=50 height=50 alt='Kitty' title='Kitty' />&nbsp;
   <img src='images/neovim.svg' width=50 height=50 alt='Neovim' title='Neovim' />&nbsp;
-  <img src='images/vscode.svg' width=50 height=50 alt='VS Code' title='VS Code' />
 </p>
-
-<h2 align='center'>What I am working on right now?</h2>
-<p align='center'><a href='https://github.com/antonkoetzler/myoro_flutter_library'>Myoro Flutter Library</a>: A Flutter development toolkit.</p>
-
-<h2 align='center'>What do I want to build next?</h2>
-<ul>
-  <li>MyoroReactLibrary 😏</li>
-  <li>A blog! I want to post about my ideas. Right now I'm thinking about state management in Flutter; I'd like to create a blog about my proposal: Vloc</li>
-</ul>
 
 <h2 align='center'>Contact</h2>
 <p align='center'><a href='mailto:antonkoetzler-faust@hotmail.com'>antonkoetzler-faust@hotmail.com</a></p>
