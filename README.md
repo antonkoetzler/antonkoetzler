@@ -58,8 +58,8 @@
 - [**Myoro:**](https://tough-shoemaker-cbd.notion.site/Myoro-2b5d7dcd552480df9b9aef40d0682c05) Documentation regarding my project Myoro;
 - [**2XKO:**](https://tough-shoemaker-cbd.notion.site/2XKO-2b5d7dcd5524801c8a02f137885b8ea1) Documentation of my tech in 2XKO
 
-<h2 align='center'>Contact</h2>
-<p align='center'><a href='mailto:antonkoetzler-faust@hotmail.com'>antonkoetzler-faust@hotmail.com</a></p>
+<h2 align='center'>Extra</h2>
 
-<h2 align='center'>Miscellaneous</h2>
-<p align='center'><a href='https://github.com/antonkoetzler-archive' align='center'>Account where I store my old code</a></p>
+- [Portfolio](https://antonkoetzler.github.io/);
+- [Account where I store my old code](https://github.com/antonkoetzler-archive);
+- Email: [antonkoetzler-faust@hotmail.com](mailto:antonkoetzler-faust@hotmail.com).
