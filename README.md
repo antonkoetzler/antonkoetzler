@@ -10,7 +10,7 @@
 
 <p align='center'>Programmer 👨‍💻 & fighting game player 🥊
 <p align='center'>Myoro is my mission to create better technology 🫡</p>
-<p align='center'>Half 🇨🇦 half 🇧🇷!</p>
+<p align='center'>Half-Canadian and half-Brazilian!</p>
 
 <h2 align='center'>Languages</h2>
 <p align='center'>
