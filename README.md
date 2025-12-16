@@ -32,6 +32,7 @@
   <img src='images/elysia.svg' width=50 height=50 alt='Elysia' title='Elysia' />&nbsp;
   <img src='images/trpc.svg' width=50 height=50 alt='tRPC' title='tRPC' />&nbsp;
   <img src='images/spring.svg' width=50 height=50 alt='Spring' title='Spring' />&nbsp;
+  <img src='images/electron.svg' width=50 height=50 alt='Electron' title='Electron' />&nbsp;
   <img src='images/bun.svg' width=50 height=50 alt='Bun' title='Bun' />&nbsp;
   <img src='images/vite.svg' width=50 height=50 alt='Vite' title='Vite' />&nbsp;
   <img src='images/sqlite.svg' width=50 height=50 alt='SQLite' title='SQLite' />&nbsp;
