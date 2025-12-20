@@ -56,7 +56,7 @@
 
 <h2 align='center'>AFFiNE Pages</h2>
 
-I use AFFiNE (instead of Notion 🤮) for storing and hosting document, here are my public documents:
+<p align='center'>I use AFFiNE (instead of Notion 🤮) for storing and hosting document, below are my public documents.</p>
 
 - [**Anton’s Flutter Bible**](https://app.affine.pro/workspace/02defb85-8959-4667-9969-24a0f8b87a1d/Gd4J3n9gdqZyzosc2kvjd): My Flutter bible. Contains all of my standards and thoughts regarding Dart and Flutter;
 - [**Myoro**](https://app.affine.pro/workspace/02defb85-8959-4667-9969-24a0f8b87a1d/CM4zyaYyuwv9W9jUozjXU): Documentation regarding my project Myoro;
