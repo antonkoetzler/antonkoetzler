@@ -51,7 +51,7 @@
   <img src='images/cursor.svg' width=50 height=50 alt='Cursor' title='Cursor' />&nbsp;
   <img src='images/wezterm.png' width=50 height=50 alt='WezTerm' title='WezTerm' />&nbsp;
   <img src='images/neovim.svg' width=50 height=50 alt='Neovim' title='Neovim' />&nbsp;
-  <img src='images/notion.svg' width=50 height=50 alt='Notion' title='Notion' />
+  <img src='images/affine.svg' width=50 height=50 alt='AFFiNE' title='AFFiNE' />
 </p>
 
 <h2 align='center'>AFFiNE Pages</h2>
