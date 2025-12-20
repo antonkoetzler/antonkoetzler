@@ -54,11 +54,11 @@
   <img src='images/notion.svg' width=50 height=50 alt='Notion' title='Notion' />
 </p>
 
-<h2 align='center'>Notion Pages</h2>
+<h2 align='center'>AFFiNE Pages</h2>
 
-- [**Anton’s Flutter Bible**](https://tough-shoemaker-cbd.notion.site/Anton-s-Flutter-Bible-2b5d7dcd55248087bf5cd89888eca59e): My Flutter bible. Contains all of my standards and thoughts regarding Dart and Flutter;
-- [**Myoro**](https://tough-shoemaker-cbd.notion.site/Myoro-2b5d7dcd552480df9b9aef40d0682c05): Documentation regarding my project Myoro;
-- [**2XKO**](https://tough-shoemaker-cbd.notion.site/2XKO-2b5d7dcd5524801c8a02f137885b8ea1): Documentation of my tech in 2XKO.
+- [**Anton’s Flutter Bible**](https://app.affine.pro/workspace/02defb85-8959-4667-9969-24a0f8b87a1d/Gd4J3n9gdqZyzosc2kvjd): My Flutter bible. Contains all of my standards and thoughts regarding Dart and Flutter;
+- [**Myoro**](https://app.affine.pro/workspace/02defb85-8959-4667-9969-24a0f8b87a1d/CM4zyaYyuwv9W9jUozjXU): Documentation regarding my project Myoro;
+- [**2XKO**](https://app.affine.pro/workspace/02defb85-8959-4667-9969-24a0f8b87a1d/Sj-XvLpHZSWrWR1qm4Za0): Documentation of my tech in 2XKO.
 
 <h2 align='center'>Extra</h2>
 
