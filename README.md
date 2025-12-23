@@ -33,7 +33,7 @@
   <img src='images/tamagui.svg' width=50 height=50 alt='Tamagui' title='Tamagui' />&nbsp;
   <img src='images/zod.webp' width=50 height=50 alt='Zod' title='Zod' />&nbsp;
   <img src='images/zustand.svg' width=50 height=50 alt='Zustand' title='Zustand' />
-  <img src='images/elysia.svg' width=50 height=50 alt='Elysia' title='Elysia' />&nbsp;
+  <img src='images/supabase.svg' width=50 height=50 alt='Supabase' title='Supabase' />&nbsp;
   <img src='images/trpc.svg' width=50 height=50 alt='tRPC' title='tRPC' />&nbsp;
   <img src='images/bun.svg' width=50 height=50 alt='Bun' title='Bun' />&nbsp;
   <img src='images/postgres.svg' width=50 height=50 alt='PostgreSQL' title='PostgreSQL' />&nbsp;
