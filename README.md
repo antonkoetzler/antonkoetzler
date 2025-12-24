@@ -19,7 +19,7 @@
   <img src='images/bash.svg' width=50 height=50 alt='Bash' title='Bash' />
 </p>
 
-<h2 align='center'>Frameworks, Libraries, Etc</h2>
+<h2 align='center'>Tech Stack</h2>
 <p align='center'>
   <img src='images/flutter.svg' width=50 height=50 alt='Flutter' title='Flutter' />&nbsp;
   <img src='images/react.svg' width=50 height=50 alt='React' title='React' />&nbsp;
