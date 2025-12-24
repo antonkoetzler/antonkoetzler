@@ -16,11 +16,10 @@
 <p align='center'>
   <img src='images/dart.svg' width=50 height=50 alt='Dart' title='Dart' />&nbsp;
   <img src='images/typescript.svg' width=50 height=50 alt='TypeScript' title='TypeScript' />&nbsp;
-  <img src='images/java.svg' width=50 height=50 alt='Java' title='Java' />&nbsp;
   <img src='images/bash.svg' width=50 height=50 alt='Bash' title='Bash' />
 </p>
 
-<h2 align='center'>Frameworks & Libraries</h2>
+<h2 align='center'>Frameworks, Libraries, Etc</h2>
 <p align='center'>
   <img src='images/flutter.svg' width=50 height=50 alt='Flutter' title='Flutter' />&nbsp;
   <img src='images/react.svg' width=50 height=50 alt='React' title='React' />&nbsp;
@@ -33,13 +32,13 @@
   <img src='images/tamagui.svg' width=50 height=50 alt='Tamagui' title='Tamagui' />&nbsp;
   <img src='images/zod.webp' width=50 height=50 alt='Zod' title='Zod' />&nbsp;
   <img src='images/zustand.svg' width=50 height=50 alt='Zustand' title='Zustand' />
-  <img src='images/supabase.svg' width=50 height=50 alt='Supabase' title='Supabase' />&nbsp;
   <img src='images/trpc.svg' width=50 height=50 alt='tRPC' title='tRPC' />&nbsp;
+  <img src='images/prisma.svg' width=50 height=50 alt='Prisma' title='Prisma' />&nbsp;
   <img src='images/bun.svg' width=50 height=50 alt='Bun' title='Bun' />&nbsp;
+  <img src='images/supabase.svg' width=50 height=50 alt='Supabase' title='Supabase' />&nbsp;
   <img src='images/postgres.svg' width=50 height=50 alt='PostgreSQL' title='PostgreSQL' />&nbsp;
   <img src='images/docker.svg' width=50 height=50 alt='Docker' title='Docker' />&nbsp;
   <img src='images/sqlite.svg' width=50 height=50 alt='SQLite' title='SQLite' />&nbsp;
-  <img src='images/spring.svg' width=50 height=50 alt='Spring' title='Spring' />
 </p>
 
 <h2 align='center'>Development Environment</h2>
