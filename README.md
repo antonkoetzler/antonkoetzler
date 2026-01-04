@@ -1,13 +1,5 @@
 <h1 align='center'>Welcome! 😸</h1>
 
-<p align='center'>
-  <img
-    src='https://github-readme-stats.vercel.app/api/top-langs/?username=antonkoetzler&theme=tokyonight&show_icons=true&hide_border=false&layout=compact'
-    alt='languages'
-    height=200
-  />
-</p>
-
 <p align='center'>Programmer 👨‍💻 & fighting game player 🥊
 <p align='center'>Myoro is my mission to create better technology 🫡</p>
 <p align='center'>Half-Canadian and half-Brazilian!</p>
