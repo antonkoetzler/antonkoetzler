@@ -8,6 +8,7 @@
 <p align='center'>
   <img src='images/dart.svg' width=50 height=50 alt='Dart' title='Dart' />&nbsp;
   <img src='images/typescript.svg' width=50 height=50 alt='TypeScript' title='TypeScript' />&nbsp;
+  <img src='images/python.svg' width=50 height=50 alt='Python' title='Python' />&nbsp;
   <img src='images/bash.svg' width=50 height=50 alt='Bash' title='Bash' />
 </p>
 
