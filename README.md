@@ -1,14 +1,18 @@
 <h1 align='center'>Welcome! 😸</h1>
 
 <p align='center'>Programmer 👨‍💻 & fighting game player 🥊
-<p align='center'>Myoro is my mission to create better technology 🫡</p>
+<p align='center'>Myoro is my mission to create better and more convenient software 🫡</p>
 <p align='center'>Half-Canadian and half-Brazilian!</p>
+
+<h2 align='center'>Links</h2>
+<p align='center'><a href='https://portfolio.myoro.com.br/'>Portfolio</a> | <a href='https://git.myoro.com.br/flqn'>Git (Self-Hosted)</a> | <a href='mailto:antonkoetzler-faust@hotmail.com'>antonkoetzler-faust@hotmail.com</a></p>
 
 <h2 align='center'>Languages</h2>
 <p align='center'>
   <img src='images/dart.svg' width=50 height=50 alt='Dart' title='Dart' />&nbsp;
   <img src='images/typescript.svg' width=50 height=50 alt='TypeScript' title='TypeScript' />&nbsp;
   <img src='images/python.svg' width=50 height=50 alt='Python' title='Python' />
+  <img src='images/rust.svg' width=50 height=50 alt='Rust' title='Rust' />
   <img src='images/bash.svg' width=50 height=50 alt='Bash' title='Bash' />
 </p>
 
@@ -20,6 +24,7 @@
   <img src='images/expo-js.svg' width=50 height=50 alt='Expo' title='Expo' />&nbsp;
   <img src='images/vite.svg' width=50 height=50 alt='Vite' title='Vite' />&nbsp;
   <img src='images/electron.svg' width=50 height=50 alt='Electron' title='Electron' />&nbsp;
+  <img src='images/tauri.svg' width=50 height=50 alt='Tauri' title='Tauri' />&nbsp;
   <img src='images/tailwind.svg' width=50 height=50 alt='Tailwind' title='Tailwind' />&nbsp;
   <img src='images/shadcn.svg' width=50 height=50 alt='shadcn' title='shadcn' />&nbsp;
   <img src='images/tamagui.svg' width=50 height=50 alt='Tamagui' title='Tamagui' />&nbsp;
@@ -40,20 +45,7 @@
   <img src='images/hyprland.svg' width=50 height=50 alt='Hyprland' title='Hyprland' />&nbsp;
   <img src='images/mac-os.svg' width=50 height=50 alt='macOS' title='macOS' />&nbsp;
   <img src='images/windows11.svg' width=50 height=50 alt='Windows' title='Windows' />&nbsp;
-  <img src='images/cursor.svg' width=50 height=50 alt='Cursor' title='Cursor' />&nbsp;
   <img src='images/wezterm.png' width=50 height=50 alt='WezTerm' title='WezTerm' />&nbsp;
+  <img src='images/claude.svg' width=50 height=50 alt='Claude' title='Claude' />&nbsp;
   <img src='images/neovim.svg' width=50 height=50 alt='Neovim' title='Neovim' />&nbsp;
-  <img src='images/affine.svg' width=50 height=50 alt='AFFiNE' title='AFFiNE' />
 </p>
-
-<h2 align='center'>AFFiNE Pages</h2>
-
-- [**Anton’s Flutter Bible**](https://app.affine.pro/workspace/02defb85-8959-4667-9969-24a0f8b87a1d/Gd4J3n9gdqZyzosc2kvjd): My Flutter bible. Contains all of my standards and thoughts regarding Dart and Flutter;
-- [**Myoro**](https://app.affine.pro/workspace/02defb85-8959-4667-9969-24a0f8b87a1d/CM4zyaYyuwv9W9jUozjXU): Documentation regarding my project Myoro;
-- [**2XKO**](https://app.affine.pro/workspace/02defb85-8959-4667-9969-24a0f8b87a1d/Sj-XvLpHZSWrWR1qm4Za0): Documentation of my tech in 2XKO.
-
-<h2 align='center'>Extra</h2>
-
-- [Portfolio](https://antonkoetzler.github.io/);
-- [Account where I store my old code](https://github.com/antonkoetzler-archive);
-- Email: [antonkoetzler-faust@hotmail.com](mailto:antonkoetzler-faust@hotmail.com).
