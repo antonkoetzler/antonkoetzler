@@ -1,4 +1,4 @@
-<p align='center'>I've migrated away from GitHub! Stop using this godforsaken website. Boycott Microsoft 😎</p>
+<h1 align='center'>I've migrated away from GitHub! Stop using this godforsaken website. Boycott Microsoft 😎</h1>
 
 <h1 align='center'>Welcome! 😸</h1>
 
