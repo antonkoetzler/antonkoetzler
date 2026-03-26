@@ -1,3 +1,5 @@
+<p align='center'>I've migrated away from GitHub! Stop using this godforsaken website. Boycott Microsoft 😎</p>
+
 <h1 align='center'>Welcome! 😸</h1>
 
 <p align='center'>Programmer 👨‍💻 & fighting game player 🥊
