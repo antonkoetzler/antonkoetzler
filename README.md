@@ -47,5 +47,5 @@
   <img src='images/windows11.svg' width=50 height=50 alt='Windows' title='Windows' />&nbsp;
   <img src='images/wezterm.png' width=50 height=50 alt='WezTerm' title='WezTerm' />&nbsp;
   <img src='images/neovim.svg' width=50 height=50 alt='Neovim' title='Neovim' />&nbsp;
-  <img src='images/claude.svg' width=50 height=50 alt='Claude' title='Claude' />
+  <img src='images/opencode.svg' width=50 height=50 alt='OpenCode' title='OpenCode' />
 </p>
