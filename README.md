@@ -25,6 +25,7 @@
   <img src='images/vite.svg' width=50 height=50 alt='Vite' title='Vite' />&nbsp;
   <img src='images/electron.svg' width=50 height=50 alt='Electron' title='Electron' />&nbsp;
   <img src='images/tauri.svg' width=50 height=50 alt='Tauri' title='Tauri' />&nbsp;
+  <img src='images/ratatui.svg' width=50 height=50 alt='Ratatui' title='Ratatui' />&nbsp;
   <img src='images/tailwind.svg' width=50 height=50 alt='Tailwind' title='Tailwind' />&nbsp;
   <img src='images/shadcn.svg' width=50 height=50 alt='shadcn' title='shadcn' />&nbsp;
   <img src='images/tamagui.svg' width=50 height=50 alt='Tamagui' title='Tamagui' />&nbsp;
