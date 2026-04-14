@@ -5,7 +5,7 @@
 <p align='center'>Half-Canadian and half-Brazilian!</p>
 
 <h2 align='center'>Links</h2>
-<p align='center'><a href='https://portfolio.myoro.com.br/'>Portfolio</a> | <a href='mailto:antonkoetzler-faust@hotmail.com'>antonkoetzler-faust@hotmail.com</a></p>
+<p align='center'><a href='https://git.myoro.com.br/flqn'>Git</a> | <a href='https://portfolio.myoro.com.br/'>Portfolio</a> | <a href='mailto:antonkoetzler-faust@hotmail.com'>antonkoetzler-faust@hotmail.com</a></p>
 
 <h2 align='center'>Languages</h2>
 <p align='center'>
