@@ -3,6 +3,7 @@
 <p align='center'>Programmer 👨‍💻 & fighting game player 🥊
 <p align='center'>Myoro is my mission to create better and more convenient software 🫡</p>
 <p align='center'>Half-Canadian and half-Brazilian!</p>
+<p align='center'>All of my work is stored <a href='https://git.myoro.com.br/flqn'>on my self-hosted Git server.</a>.</p>
 
 <h2 align='center'>Links</h2>
 <p align='center'><a href='https://git.myoro.com.br/flqn'>Git</a> | <a href='https://portfolio.myoro.com.br/'>Portfolio</a> | <a href='https://fgc.myoro.com.br/'>Myoro FGC Docs</a> | <a href='https://algorithmic-trading.myoro.com.br/'>Learn Algorithmic Trading</a> | <a href='mailto:antonkoetzler-faust@hotmail.com'>Email</a></p>
