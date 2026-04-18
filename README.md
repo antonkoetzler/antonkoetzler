@@ -6,7 +6,7 @@
 <p align='center'>All of my work is stored <a href='https://git.myoro.com.br/flqn'>on my self-hosted Git server</a>.</p>
 
 <h2 align='center'>Links</h2>
-<p align='center'><a href='https://git.myoro.com.br/flqn'>Git</a> | <a href='https://portfolio.myoro.com.br/'>Portfolio</a> | <a href='https://fgc.myoro.com.br/'>Myoro FGC Docs</a> | <a href='https://algorithmic-trading.myoro.com.br/'>Learn Algorithmic Trading</a> | <a href='mailto:antonkoetzler-faust@hotmail.com'>Email</a></p>
+<p align='center'><a href='https://git.myoro.com.br/antonkoetzler'>Git</a> | <a href='https://portfolio.myoro.com.br/'>Portfolio</a> | <a href='https://fgc.myoro.com.br/'>Myoro FGC Docs</a> | <a href='https://algorithmic-trading.myoro.com.br/'>Learn Algorithmic Trading</a> | <a href='mailto:antonkoetzler-faust@hotmail.com'>Email</a></p>
 
 <h2 align='center'>Languages</h2>
 <p align='center'>
